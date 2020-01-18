@@ -1,9 +1,4 @@
-/*
- * 1.cpp
- *
- *  Created on: 28-Sep-2019
- *      Author: aman 
- */
+
 #include <iostream>
 using namespace std;
 
